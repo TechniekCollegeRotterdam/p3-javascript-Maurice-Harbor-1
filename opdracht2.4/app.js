@@ -1,23 +1,3 @@
-// let x = 10;
-// let y = 5;
-
-// let z = function(a,b)
-// {
-//    return x + y
-// };
-
-// console.log("the awnser is " + z)
-
-// let x = 10;
-// let y = 5;
-// let z = x*y;
-
-// let z = function(){
-//     let z = x * y; 
-// };
-
-// console.log(z);
-
 function calculate(){
     let x = 10;
     let y = 5;
