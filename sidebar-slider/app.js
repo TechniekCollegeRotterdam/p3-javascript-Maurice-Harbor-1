@@ -13,7 +13,7 @@ let nav = document.getElementById("nav");
 
 document.body.addEventListener('mousemove', function(e) { 
    
-    if(e.clientX == 0){
+    if(e.clientX == 0.5){
         nav.classList.add("show-nav");
     }else if(e.clientX == 222){
         nav.classList.add("remove-nav");
