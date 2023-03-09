@@ -4,6 +4,8 @@ function calculate(){
     let z = x + y;
 };
 
+calculate();
+
 console.log(calculate);
 
 
@@ -13,6 +15,8 @@ function multiplyByFive(){
     let z = x * y;
 };
 
+multiplyByFive();
+
 console.log(multiplyByFive);
 
 function minute(){
@@ -20,5 +24,7 @@ function minute(){
     let y = 60;
     let z = x / y;
 };
+
+minute();
 
 console.log(minute);
