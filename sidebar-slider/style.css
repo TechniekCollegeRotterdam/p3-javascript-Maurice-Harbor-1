@@ -20,7 +20,7 @@
     left: 0; 
     top: 0; 
     background-color: black; 
-    transform: translateX(-100%); 
+    transform: translateX(-101%); 
     display: flex; 
     justify-content: center; 
     flex-direction: column; 
