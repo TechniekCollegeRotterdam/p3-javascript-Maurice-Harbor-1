@@ -1,6 +1,5 @@
 let output = document.getElementById("tekst");
-
-// document.getElementById("Winkelmand").innerText = names;
+let input = 
 let winkelmand = ["Bananen", "Whiskey", "Chips", "Bonen ", "Aardappelen"];
 
 //opdracht 1
