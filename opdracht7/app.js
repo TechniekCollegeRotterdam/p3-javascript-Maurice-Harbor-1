@@ -1,5 +1,6 @@
 let output = document.getElementById("tekst");
 let input = 
+
 let winkelmand = ["Bananen", "Whiskey", "Chips", "Bonen ", "Aardappelen"];
 
 //opdracht 1
@@ -16,7 +17,7 @@ output.innerText = winkelmand[3] + "staat op de vierde plek in uw winkelmand"
 winkelmand[1] = "bier";
 
 //opdracht 5
-function product_toevoegen() {
+function add_product() {
 winkelmand.push("water");
 output.innerText = winkelmand;
 }
