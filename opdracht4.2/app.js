@@ -3,9 +3,7 @@ let getal1 = document.getElementById("getal1");
 let getal2 = document.getElementById("getal2");
 
 
-
-
-
+// calc 2
 function add() {
     antwoord.innerText = Number(getal1.value) + Number(getal2.value);
     if(getal1.value <=0  getal2.value <=0) {
